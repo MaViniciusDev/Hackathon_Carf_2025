@@ -1,8 +1,3 @@
-"""
-Script 1: Previsão de HET (Horas Estimadas de Trabalho)
-Objetivo: Prever tempo de julgamento para processos sem HET usando Ridge Regression
-"""
-
 import pandas as pd
 import numpy as np
 from pathlib import Path

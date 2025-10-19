@@ -1,9 +1,3 @@
-"""
-Script 2: Organização e Distribuição de Lotes - SIMPLIFICADO
-Objetivo: Organizar processos em lotes e distribuir para turmas de forma balanceada
-SEM ML complexo - usa apenas os tipos que já vêm nos parâmetros
-"""
-
 import pandas as pd
 import numpy as np
 from pathlib import Path
